@@ -1,6 +1,6 @@
 ##100DaysOfCode Log - Round 1 - Rishi Sareen
 
-The log of my #100DaysOfCode challenge. Started on [Feb 1, 2020].
+The log of my #100DaysOfCode challenge. Started on Feb 1, 2020.
 
 ## Log
 
